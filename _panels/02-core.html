@@ -1,0 +1,16 @@
+---
+html_id: core
+title: core
+---
+<h2 class="major">core</h2>
+<span class="image main"><img src="images/axecore-ascii-screenshot.png" alt="" /></span>
+<section><ul class="actions">
+<li><a href="https://github.com/AXErunners/axe/releases/latest" class="button icon fa-download">binaries</a></li>
+</ul>
+</section>
+<h2>Gitian builds</h2>
+
+<p>Use <a href="https://github.com/AXErunners/axe-gitian">AXE-gitian</a> to perform deterministic binary builds using <a href="https://www.vagrantup.com/">Vagrant</a> and <a href="https://www.virtualbox.org/">VirtualBox</a> with <a href="https://www.ansible.com/">Ansible</a>. Gitian provides a way to be reasonably certain that the AXE executables are really built from the exact source on GitHub and have not been tampered with. It also makes sure that the same, tested dependencies are used and statically built into the executable. Multiple developers build from source code by following a specific descriptor ("recipe"), cryptographically sign the result, and upload the resulting signature. These results are compared and only if they match is the build is accepted. </p>
+
+<ul><li><a href="https://github.com/AXErunners/axe-gitian#requirements">Guide</a></li>
+<li><a href="https://github.com/AXErunners/gitian.sigs">Sigs</a></li></ul>
