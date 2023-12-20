@@ -1,4 +1,4 @@
-# Maintenance instructions for AXErunners website
+# Maintenance instructions for Vlad'mir Labs website
 
 This website runs on [Jekyll](https://github.com/jekyll/jekyll) and hosted on GitHub Pages. Use the protocol below for maintenance tasks and contribution.
 

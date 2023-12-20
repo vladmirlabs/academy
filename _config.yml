@@ -1,8 +1,8 @@
-title: AXE
-tagline: Decentralized X11-based cryptocurrency
-description: Decentralized blockchain
+title: Vlad'mir Labs
+tagline: Empowering The Future of Crypto & WEB3
+description: Empowering The Future of Crypto & WEB3
 baseurl: ""
-url: "https://axerunners.com"
+url: "https://vladmirlabs.github.io"
 
 markdown: kramdown
 sass:

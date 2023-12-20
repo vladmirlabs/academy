@@ -3,7 +3,7 @@ layout: null
 ---
 var urlsToCache = [];
 
-var CACHE_NAME = 'axerunners-cache-v19';
+var CACHE_NAME = 'vladmirlabs-cache-v19';
 
 self.addEventListener('install', function(event) {
   // Perform install steps
